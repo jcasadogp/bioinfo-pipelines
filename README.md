@@ -3,3 +3,7 @@ Personal repository to build, test and have access to typical bioinformatics pip
 
 ## Useful links:
 * Some bioinformatics [file formats](https://samtools.github.io/hts-specs/)
+
+### Workflow management tools:
+* Snakemake
+* [Galaxy](https://usegalaxy.org/)
