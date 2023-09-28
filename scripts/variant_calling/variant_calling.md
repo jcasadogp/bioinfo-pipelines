@@ -17,4 +17,9 @@
 * [Freebayes](https://github.com/freebayes/freebayes)
 * SNVer, Varscan, Platypus...
 
+## Variant Annotation Tools
+* [Annovar](http://www.openbioinformatics.org/annovar/)
+* [Ensembl Variant Effect Predictor](http://www.ensembl.org/info/docs/tools/vep/index.html)
+* [SnpEff](https://pcingola.github.io/SnpEff/)
+
 ## [Variant Calling Format](https://samtools.github.io/hts-specs/VCFv4.4.pdf)
