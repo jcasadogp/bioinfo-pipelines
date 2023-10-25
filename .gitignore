@@ -1,4 +1,5 @@
 # Project specific file formats and directories
+data/*/*.fasta*
 data/*/*.fastq
 data/*/bowtie2_example_index*
 data/*/*.sam
